@@ -23,7 +23,7 @@
   </project>
   <project path="device/custom/sepolicy" name="android_device_custom_sepolicy" remote="exui" />
   <project path="manifest" name="android_manifest" remote="exui" />
-  <project path="vendor/aosp" name="android_vendor_aosp" remote="exui" />
+  <project path="vendor/aosp" name="rio-31/android_vendor_exui" remote="github" />
   <project path="vendor/pixelstyle" name="android_vendor_pixelstyle" remote="exui" />
 
   <!-- Packages repos -->
